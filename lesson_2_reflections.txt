@@ -7,3 +7,5 @@ Why did my commits not work for a while?
 	I had somehow changed the local core.editor in this repository to --help. It must be from one of the mistakes I made when I was playing around figuring out how to set and use the core.editor.  I was trying to see if I could make some changes so that only one sublime file would open when I used git commit.  One of the things I tried must have messed up the local core.editor
 What are some situations when branches would be helpful in keeping your history organized.  How would branches help.
 	Branches could be used if you had different devs working on different features of a project at the same time.  Each dev could have a branch with their name. It could also be helpful if you were adding multiple features at once.  Or if you had a branch to work on a new feature and a master branch that clients were using where updates would only be bug fixes.
+How do the diagrams help you visualize the branch structure?
+	I don't think I would have a clue what this was talking about without the diagrams. I tend to see the world as images in my head that can be described by words.  Without the pics, I wouldn't know what a branch was.
