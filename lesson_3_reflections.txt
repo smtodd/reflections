@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  A remote repository is a good backup for a local repository, so it's always a good idea for that reason.
+  It's also critical if you are collaborating remotely, since it allows you to share work between devs.
