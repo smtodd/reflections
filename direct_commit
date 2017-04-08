@@ -5,3 +5,6 @@ What happens when I create a branch on Github then do a pull?
 I did a [git checkout --track origin/branch_2] command.
 	This created the branch in my local repository.  I am not sure how exactly the tracking works.
 What happens when I update the branch_2 locally?
+	Lines 4-7 were added on my local computer.  This line is added on Github.  The track command seems to link this branch
+	with my local branch_2. The local updates automatically updated to this branch without changing the master branch. Which
+	is what I was tryng to do.
