@@ -1,3 +1,7 @@
 What happens when I create a file directly in a github repository?
   This file is to find out
 What happens when I create a branch on Github then do a pull?
+	A pull from a remote branch includes the merge function.  So it both fetches (brings them over) and merges them.  So I still only had one branch.  To get updates, it could be good, but not in this case.
+I did a [git checkout --track origin/branch_2] command.
+	This created the branch in my local repository.  I am not sure how exactly the tracking works.
+What happens when I update the branch_2 locally?
